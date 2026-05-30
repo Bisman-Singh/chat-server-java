@@ -30,3 +30,5 @@ make run-client
 Or: `java -cp out ChatClient [host] [port]`
 
 Type messages and press Enter. Type `/quit` to exit.
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
